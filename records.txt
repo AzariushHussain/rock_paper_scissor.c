@@ -1,0 +1,18 @@
+Hussain scored 2 points and pc scored 3 points.
+pc wins the game.
+********************************************************
+Hussain scored 3 points and pc scored 2 points.
+Hussain wins the game.
+********************************************************
+raza scored 3 points and zaya scored 2 points.
+raza wins the game.
+********************************************************
+SHIFA scored 2 points and DOM scored 1 points.
+SHIFA wins the game.
+********************************************************
+HUSSAIN scored 4 points and PC scored 3 points.
+HUSSAIN wins the game.
+********************************************************
+HUSSAIN scored 5 points and PC scored 7 points.
+PC wins the game.
+********************************************************
