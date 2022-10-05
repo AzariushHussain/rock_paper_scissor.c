@@ -25,7 +25,7 @@ char player_input(char name[50])
     scanf("%c", &inp);
     return inp;
 }
-void move_check(char inp1, char inp2, int *sc1, int *sc2, char name1[50], char name2[50])
+void move_check(char inp1, char inp2, int *sc1, int *sc2, char name1[50], char name2[50])//here sc is used to store score count
 {
     if (inp1 == 'R' && inp2 == 'R' || inp1 == 'P' && inp2 == 'P' || inp1 == 'S' && inp2 == 'S')
     {
